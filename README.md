@@ -20,4 +20,4 @@ time.sleep(10) -> Makes sure your browser does'nt Crash .
 
 Make sure you run a Proxy on your browser otherwise maybe the Analystics dont consider clicks in Counts . 
 
-  Fell free to Contact : sec.maniac@yahoo.com
+  
